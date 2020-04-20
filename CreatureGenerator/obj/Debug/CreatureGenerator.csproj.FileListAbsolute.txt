@@ -1,0 +1,10 @@
+C:\Users\M\source\repos\CreaturesLibrary\CreatureGenerator\obj\Debug\CreatureGenerator.csprojAssemblyReference.cache
+C:\Users\M\source\repos\CreaturesLibrary\CreatureGenerator\obj\Debug\CreatureGenerator.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\CreaturesLibrary\CreatureGenerator\bin\Debug\CreatureGenerator.exe.config
+C:\Users\M\source\repos\CreaturesLibrary\CreatureGenerator\bin\Debug\CreatureGenerator.exe
+C:\Users\M\source\repos\CreaturesLibrary\CreatureGenerator\bin\Debug\CreatureGenerator.pdb
+C:\Users\M\source\repos\CreaturesLibrary\CreatureGenerator\bin\Debug\CreaturesLibrary.dll
+C:\Users\M\source\repos\CreaturesLibrary\CreatureGenerator\bin\Debug\CreaturesLibrary.pdb
+C:\Users\M\source\repos\CreaturesLibrary\CreatureGenerator\obj\Debug\CreatureGenerator.csproj.CopyComplete
+C:\Users\M\source\repos\CreaturesLibrary\CreatureGenerator\obj\Debug\CreatureGenerator.exe
+C:\Users\M\source\repos\CreaturesLibrary\CreatureGenerator\obj\Debug\CreatureGenerator.pdb
